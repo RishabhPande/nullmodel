@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use nullmodel, please cite it as below."
+title: "nullmodel: training-free foundation-model null baselines and data-hygiene checks"
+version: 0.1.0
+license: MIT
+type: software
+authors:
+  - family-names: Pande
+    given-names: Rishabh
+    affiliation: "Independent Researcher, North Brunswick, NJ, USA"
+keywords:
+  - baselines
+  - foundation models
+  - TabPFN
+  - Chronos
+  - data leakage
+  - reproducibility
