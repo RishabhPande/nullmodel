@@ -1,0 +1,86 @@
+{
+ "heart_random_with_duplicates | TabPFN-2": {
+  "mean": 99.5,
+  "p2.5": 96.8,
+  "p97.5": 100.0,
+  "splits": 100,
+  "seconds_per_split": 0.67
+ },
+ "heart_deduplicated | TabPFN-2": {
+  "mean": 84.8,
+  "p2.5": 77.0,
+  "p97.5": 90.2,
+  "splits": 100,
+  "seconds_per_split": 0.37
+ },
+ "hf_5000_row_version | TabPFN-2": {
+  "mean": 99.5,
+  "p2.5": 99.1,
+  "p97.5": 99.9,
+  "splits": 100,
+  "seconds_per_split": 4.24
+ },
+ "hf_299_original_records | TabPFN-2": {
+  "mean": 83.9,
+  "p2.5": 75.0,
+  "p97.5": 91.7,
+  "splits": 100,
+  "seconds_per_split": 0.36
+ },
+ "parkinsons_random_split | TabPFN-2": {
+  "mean": 93.7,
+  "p2.5": 84.6,
+  "p97.5": 98.8,
+  "splits": 100,
+  "seconds_per_split": 0.33
+ },
+ "parkinsons_subject_wise_split | TabPFN-2": {
+  "mean": 77.2,
+  "p2.5": 50.6,
+  "p97.5": 96.6,
+  "splits": 100,
+  "seconds_per_split": 0.33
+ },
+ "heart_random_with_duplicates | TabPFN-2.5": {
+  "mean": 99.5,
+  "p2.5": 96.6,
+  "p97.5": 100.0,
+  "splits": 100,
+  "seconds_per_split": 0.77
+ },
+ "heart_deduplicated | TabPFN-2.5": {
+  "mean": 84.8,
+  "p2.5": 75.4,
+  "p97.5": 91.8,
+  "splits": 100,
+  "seconds_per_split": 0.55
+ },
+ "hf_5000_row_version | TabPFN-2.5": {
+  "mean": 99.4,
+  "p2.5": 98.9,
+  "p97.5": 99.7,
+  "splits": 100,
+  "seconds_per_split": 3.88
+ },
+ "hf_299_original_records | TabPFN-2.5": {
+  "mean": 84.3,
+  "p2.5": 75.0,
+  "p97.5": 91.7,
+  "splits": 100,
+  "seconds_per_split": 0.54
+ },
+ "parkinsons_random_split | TabPFN-2.5": {
+  "mean": 93.6,
+  "p2.5": 85.8,
+  "p97.5": 100.0,
+  "splits": 100,
+  "seconds_per_split": 0.51
+ },
+ "parkinsons_subject_wise_split | TabPFN-2.5": {
+  "mean": 78.0,
+  "p2.5": 52.9,
+  "p97.5": 96.6,
+  "splits": 100,
+  "seconds_per_split": 0.51
+ }
+}
